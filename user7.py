@@ -1,3 +1,4 @@
+#Message using twitter
 #!/usr/bin/python
 
 from email.mime.multipart import MIMEMultipart
