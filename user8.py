@@ -1,3 +1,4 @@
+#Stone Paper Sissor
 #!/usr/bin/python3
 import random
 n=(int(input("press 1 to play")))
